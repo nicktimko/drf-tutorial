@@ -1,0 +1,6 @@
+*.py[cod]
+db.sqlite3
+.python-version
+
+Untitled*
+.ipynb_checkpoints/
