@@ -2,5 +2,8 @@
 db.sqlite3
 .python-version
 
+.coverage
+coverage_html_report/
+
 Untitled*
 .ipynb_checkpoints/
